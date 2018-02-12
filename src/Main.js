@@ -6,10 +6,7 @@ class Main extends React.Component {
     selected: "",
     actress: [
       { name: "Saoirse Ronan", film: "Lady Bird" },
-      {
-        name: "Frances McDormand",
-        film: "Three Billboards Outside Ebbing, Missouri"
-      },
+      { name: "Frances McDormand", film: "Three Billboards Outside Ebbing, Missouri" },
       { name: "Sally Hawkins", film: "The Shape of Water" },
       { name: "Meryl Streep", film: "The Post" },
       { name: "Margot Robbie", film: "I, Tonya" }
@@ -30,15 +27,9 @@ class Main extends React.Component {
     ],
     supp_actor: [
       { name: "Willem Dafoe", film: "The Florida Project" },
-      {
-        name: "Sam Rockwell",
-        film: "Three Billboards Outside Ebbing, Missouri"
-      },
+      { name: "Sam Rockwell", film: "Three Billboards Outside Ebbing, Missouri" },
       { name: "Christopher Plummer", film: "All The Money in the World" },
-      {
-        name: "Woody Harrelson",
-        film: "Three Billboards Outside Ebbing Missouri"
-      },
+      { name: "Woody Harrelson", film: "Three Billboards Outside Ebbing Missouri" },
       { name: "Richard Jenkins", film: "The Shape of Water" }
     ]
   };
