@@ -1,2 +1,0 @@
-# OscarNominationsListing
-Created with CodeSandbox
